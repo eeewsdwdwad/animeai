@@ -1,0 +1,322 @@
+also wenn man auf aniworld geht ist auf der startseite die anime unter diesem element
+
+<div class="previews">              <div class="preview rows sevenCols active">                     <div class="coverListItem"><a href="/anime/stream/dan-da-dan" title="DAN DA DAN als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/dan-da-dan-stream-cover-RRsbwQSmwyk2wDiOzv7gtrqcF1co2bBe_150x225.jpg" alt="DAN DA DAN Cover" src="/public/img/cover/dan-da-dan-stream-cover-RRsbwQSmwyk2wDiOzv7gtrqcF1co2bBe_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/dan-da-dan-stream-cover-RRsbwQSmwyk2wDiOzv7gtrqcF1co2bBe_150x225.jpg" alt="DAN DA DAN Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> DAN DA DAN </h3>
+                            <small>Action</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/seirei-gensouki-spirit-chronicles" title="Seirei Gensouki: Spirit Chronicles als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/seirei-gensouki-spirit-chronicles-stream-cover-wYrfPSQC5GtZIi9W6xDaOh7HguXiRjQ6_150x225.jpg" alt="Seirei Gensouki: Spirit Chronicles Cover" src="/public/img/cover/seirei-gensouki-spirit-chronicles-stream-cover-wYrfPSQC5GtZIi9W6xDaOh7HguXiRjQ6_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/seirei-gensouki-spirit-chronicles-stream-cover-wYrfPSQC5GtZIi9W6xDaOh7HguXiRjQ6_150x225.jpg" alt="Seirei Gensouki: Spirit Chronicles Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Seirei Gensouki: Spirit Chronicles </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/the-eminence-in-shadow" title="The Eminence in Shadow als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/the-eminence-in-shadow-stream-cover-8y7TtTRo1epUjJolGKbMC7FYqVpa136Z_150x225.png" alt="The Eminence in Shadow Cover" src="/public/img/cover/the-eminence-in-shadow-stream-cover-8y7TtTRo1epUjJolGKbMC7FYqVpa136Z_150x225.png" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/the-eminence-in-shadow-stream-cover-8y7TtTRo1epUjJolGKbMC7FYqVpa136Z_150x225.png" alt="The Eminence in Shadow Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> The Eminence in Shadow </h3>
+                            <small>Actionkomödie</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/solo-leveling" title="Solo Leveling als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/solo-leveling-stream-cover-JKPmWrUhngNMpjdKgNYqjD8Fv91bOGi4_150x225.jpg" alt="Solo Leveling Cover" src="/public/img/cover/solo-leveling-stream-cover-JKPmWrUhngNMpjdKgNYqjD8Fv91bOGi4_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/solo-leveling-stream-cover-JKPmWrUhngNMpjdKgNYqjD8Fv91bOGi4_150x225.jpg" alt="Solo Leveling Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Solo Leveling </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/ill-become-a-villainess-who-goes-down-in-history" title="I’ll Become a Villainess Who Goes Down in History als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/ill-become-a-villainess-who-goes-down-in-history-stream-cover-br4ry6L3O1ZBKTnmon9SSAexEYo0N9gV_150x225.jpg" alt="I’ll Become a Villainess Who Goes Down in History Cover" src="/public/img/cover/ill-become-a-villainess-who-goes-down-in-history-stream-cover-br4ry6L3O1ZBKTnmon9SSAexEYo0N9gV_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/ill-become-a-villainess-who-goes-down-in-history-stream-cover-br4ry6L3O1ZBKTnmon9SSAexEYo0N9gV_150x225.jpg" alt="I’ll Become a Villainess Who Goes Down in History Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> I’ll Become a Villainess Who Goes Down in History </h3>
+                            <small>Romanze</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/rezero-starting-life-in-another-world" title="Re:ZERO - Starting Life in Another World als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/rezero-starting-life-in-another-world-stream-cover-KLD2EPOjwod8ASqAjLKi41gO9ZpVFHFx_150x225.jpg" alt="Re:ZERO - Starting Life in Another World Cover" src="/public/img/cover/rezero-starting-life-in-another-world-stream-cover-KLD2EPOjwod8ASqAjLKi41gO9ZpVFHFx_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/rezero-starting-life-in-another-world-stream-cover-KLD2EPOjwod8ASqAjLKi41gO9ZpVFHFx_150x225.jpg" alt="Re:ZERO - Starting Life in Another World Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Re:ZERO - Starting Life in Another World </h3>
+                            <small>Drama</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/danmachi-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon" title="Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/danmachi-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-stream-cover-IXovUu8nG11J8Muy9wpva2c1V6Z6DC9G_150x225.jpg" alt="Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Cover" src="/public/img/cover/danmachi-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-stream-cover-IXovUu8nG11J8Muy9wpva2c1V6Z6DC9G_150x225.jpg" class="loaded" data-was-processed="true"><noscript><img src="/public/img/cover/danmachi-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-stream-cover-IXovUu8nG11J8Muy9wpva2c1V6Z6DC9G_150x225.jpg" alt="Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? </h3>
+                            <small>Actionkomödie</small>
+                        </a></div>  </div>             <div class="preview rows sevenCols">                     <div class="coverListItem"><a href="/anime/stream/the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest" title="The Healer Who Was Banished From His Party, Is, in Fact, the Strongest als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest-stream-cover-pe4yNRmEPnxsnbE53gLJauCtXw7iJCqc_150x225.jpg" alt="The Healer Who Was Banished From His Party, Is, in Fact, the Strongest Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest-stream-cover-pe4yNRmEPnxsnbE53gLJauCtXw7iJCqc_150x225.jpg" alt="The Healer Who Was Banished From His Party, Is, in Fact, the Strongest Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> The Healer Who Was Banished From His Party, Is, in Fact, the Strongest </h3>
+                            <small>Actionkomödie</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/arifureta-from-commonplace-to-worlds-strongest" title="Arifureta: From Commonplace to World’s Strongest als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/arifureta-from-commonplace-to-worlds-strongest-stream-cover-8btQdeBCWQWLIH0uNrCXjBxyl4BZ9dIY_150x225.jpg" alt="Arifureta: From Commonplace to World’s Strongest Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/arifureta-from-commonplace-to-worlds-strongest-stream-cover-8btQdeBCWQWLIH0uNrCXjBxyl4BZ9dIY_150x225.jpg" alt="Arifureta: From Commonplace to World’s Strongest Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Arifureta: From Commonplace to World’s Strongest </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/let-this-grieving-soul-retire" title="Let This Grieving Soul Retire als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/let-this-grieving-soul-retire-stream-cover-R6MxJ5csQ6XWnnQZmG1ap5aOw4EMZki5_150x225.jpg" alt="Let This Grieving Soul Retire Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/let-this-grieving-soul-retire-stream-cover-R6MxJ5csQ6XWnnQZmG1ap5aOw4EMZki5_150x225.jpg" alt="Let This Grieving Soul Retire Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Let This Grieving Soul Retire </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/shangri-la-frontier" title="Shangri-La Frontier als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/shangri-la-frontier-stream-cover-wYZGo11iRq1HD7IcOMDhVtLCaRNtP1SL_150x225.jpg" alt="Shangri-La Frontier Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/shangri-la-frontier-stream-cover-wYZGo11iRq1HD7IcOMDhVtLCaRNtP1SL_150x225.jpg" alt="Shangri-La Frontier Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Shangri-La Frontier </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/wind-breaker" title="WIND BREAKER als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/wind-breaker-stream-cover-5FAIl7LYGqF97cDFQrkFawpewH9PHDkp_150x225.jpg" alt="WIND BREAKER Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/wind-breaker-stream-cover-5FAIl7LYGqF97cDFQrkFawpewH9PHDkp_150x225.jpg" alt="WIND BREAKER Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> WIND BREAKER </h3>
+                            <small>Action</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/the-most-notorious-talker-runs-the-worlds-greatest-clan" title="The Most Notorious “Talker” Runs the World’s Greatest Clan als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/the-most-notorious-talker-runs-the-worlds-greatest-clan-stream-cover-oQmpifsVvmGxxdAqNAkETNqPTLXlQJ7K_150x225.jpg" alt="The Most Notorious “Talker” Runs the World’s Greatest Clan Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/the-most-notorious-talker-runs-the-worlds-greatest-clan-stream-cover-oQmpifsVvmGxxdAqNAkETNqPTLXlQJ7K_150x225.jpg" alt="The Most Notorious “Talker” Runs the World’s Greatest Clan Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> The Most Notorious “Talker” Runs the World’s Greatest Clan </h3>
+                            <small>Action</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/blue-lock" title="Blue Lock als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/blue-lock-stream-cover-PJQgXe1drofkNfbfHeTKxLa76AmTBVxY_150x225.jpg" alt="Blue Lock Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/blue-lock-stream-cover-PJQgXe1drofkNfbfHeTKxLa76AmTBVxY_150x225.jpg" alt="Blue Lock Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Blue Lock </h3>
+                            <small>Drama</small>
+                        </a></div>  </div>             <div class="preview rows sevenCols">                     <div class="coverListItem"><a href="/anime/stream/the-do-over-damsel-conquers-the-dragon-emperor" title="The Do-Over Damsel Conquers the Dragon Emperor als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/the-do-over-damsel-conquers-the-dragon-emperor-stream-cover-g0MkFERWXDbobI2hSsiUA6ClFKBos713_150x225.jpg" alt="The Do-Over Damsel Conquers the Dragon Emperor Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/the-do-over-damsel-conquers-the-dragon-emperor-stream-cover-g0MkFERWXDbobI2hSsiUA6ClFKBos713_150x225.jpg" alt="The Do-Over Damsel Conquers the Dragon Emperor Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> The Do-Over Damsel Conquers the Dragon Emperor </h3>
+                            <small>Romanze</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/loner-life-in-another-world" title="Loner Life in Another World als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/loner-life-in-another-world-stream-cover-moOce6XACXhzTdY8yutrciVvPcj7uRc2_150x225.jpg" alt="Loner Life in Another World Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/loner-life-in-another-world-stream-cover-moOce6XACXhzTdY8yutrciVvPcj7uRc2_150x225.jpg" alt="Loner Life in Another World Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Loner Life in Another World </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/demon-lord-2099" title="DEMON LORD 2099 als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/demon-lord-2099-stream-cover-MWRmIbMoEWxGMAfKxYC0AjjHeMXuCgZK_150x225.jpg" alt="DEMON LORD 2099 Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/demon-lord-2099-stream-cover-MWRmIbMoEWxGMAfKxYC0AjjHeMXuCgZK_150x225.jpg" alt="DEMON LORD 2099 Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> DEMON LORD 2099 </h3>
+                            <small>Action</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/beastars" title="BEASTARS als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/beastars-stream-cover-I7KY6eCLjQcGWYeDkE8HKTTbQsReASLw_150x225.jpg" alt="BEASTARS Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/beastars-stream-cover-I7KY6eCLjQcGWYeDkE8HKTTbQsReASLw_150x225.jpg" alt="BEASTARS Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> BEASTARS </h3>
+                            <small>Actiondrama</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/nina-the-starry-bride" title="Nina the Starry Bride als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/nina-the-starry-bride-stream-cover-dtQGKVyjVxMUIxqueqPtkS0LVGU4dZNd_150x225.jpg" alt="Nina the Starry Bride Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/nina-the-starry-bride-stream-cover-dtQGKVyjVxMUIxqueqPtkS0LVGU4dZNd_150x225.jpg" alt="Nina the Starry Bride Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Nina the Starry Bride </h3>
+                            <small>Drama</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/good-bye-dragon-life" title="Good Bye, Dragon Life als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/good-bye-dragon-life-stream-cover-1VkSo9KJi4PEoUd6ZOVvsUXa7ygTAnMm_150x225.jpg" alt="Good Bye, Dragon Life Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/good-bye-dragon-life-stream-cover-1VkSo9KJi4PEoUd6ZOVvsUXa7ygTAnMm_150x225.jpg" alt="Good Bye, Dragon Life Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Good Bye, Dragon Life </h3>
+                            <small>Abenteuer</small>
+                        </a></div>                     <div class="coverListItem"><a href="/anime/stream/bleach" title="Bleach als Stream anschauen">
+                            <div class="seriesListHorizontalEffect">
+                                <div class="seriesListHorizontalCover"><img data-src="/public/img/cover/bleach-stream-cover-3zPD5VwzRq15HdsjOSyiaza99umvoY6I_150x225.jpg" alt="Bleach Cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPUd/SuBwACngE8BcXfBAAAAABJRU5ErkJggg=="><noscript><img src="/public/img/cover/bleach-stream-cover-3zPD5VwzRq15HdsjOSyiaza99umvoY6I_150x225.jpg" alt="Bleach Cover"></noscript></div>
+                                <div class="seriesListHorizontalContent"><i class="fas fa-2x fa-play"></i></div>
+                            </div>
+                            <h3> Bleach </h3>
+                            <small>Fighting-Shounen</small>
+                        </a></div>  </div>  </div>
+
+wenn man dann auf einen anime klickt landet man auf der anime seite
+
+die Episoden sind in diesem Element:
+
+<ul>
+        <li><span>  <strong>Episoden:</strong>  </span></li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-1" data-episode-id="54874" title="Staffel 1 Episode 1" data-season-id="1">1</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-2" data-episode-id="55309" title="Staffel 1 Episode 2" data-season-id="1">2</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-3" data-episode-id="55382" title="Staffel 1 Episode 3" data-season-id="1">3</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-4" data-episode-id="55469" title="Staffel 1 Episode 4" data-season-id="1">4</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-5" data-episode-id="55535" title="Staffel 1 Episode 5" data-season-id="1">5</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-6" data-episode-id="55645" title="Staffel 1 Episode 6" data-season-id="1">6</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-7" data-episode-id="55730" title="Staffel 1 Episode 7" data-season-id="1">7</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-8" data-episode-id="55801" title="Staffel 1 Episode 8" data-season-id="1">8</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-9" data-episode-id="55864" title="Staffel 1 Episode 9" data-season-id="1">9</a>  </li>             <li>  <a href="/anime/stream/dan-da-dan/staffel-1/episode-10" data-episode-id="55922" title="Staffel 1 Episode 10" data-season-id="1">10</a>  </li>   </ul>
+
+
+wie du siehst episode 1,2,3,4,5,6 etc.
+
+die Staffeln sind in diesem Element:
+
+<li>  <a class="active" href="/anime/stream/dan-da-dan/staffel-1" title="Staffel 1">1</a>  </li>
+
+der anime z.b hat nur eine Staffel
+
+klickt man auf eine episode dann sind die streams in diesem element
+
+<ul class="row">                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711334" data-lang-key="1" data-link-id="2711334" data-link-target="/redirect/2711334" data-external-embed="false">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711334" target="_blank">
+                                    <i class="icon VOE" title="Hoster VOE"></i>
+                                    <h4>VOE</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711333" data-lang-key="1" data-link-id="2711333" data-link-target="/redirect/2711333" data-external-embed="false">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711333" target="_blank">
+                                    <i class="icon Doodstream" title="Hoster Doodstream"></i>
+                                    <h4>Doodstream</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2838939" data-lang-key="1" data-link-id="2838939" data-link-target="/redirect/2838939" data-external-embed="false">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2838939" target="_blank">
+                                    <i class="icon Filemoon" title="Hoster Filemoon"></i>
+                                    <h4>Filemoon</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2824912" data-lang-key="1" data-link-id="2824912" data-link-target="/redirect/2824912" data-external-embed="false">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2824912" target="_blank">
+                                    <i class="icon Luluvdo" title="Hoster Luluvdo"></i>
+                                    <h4>Luluvdo</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink3011073" data-lang-key="1" data-link-id="3011073" data-link-target="/redirect/3011073" data-external-embed="false">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/3011073" target="_blank">
+                                    <i class="icon Vidmoly" title="Hoster Vidmoly"></i>
+                                    <h4>Vidmoly</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711318" data-lang-key="2" data-link-id="2711318" data-link-target="/redirect/2711318" data-external-embed="false" style="display: none;">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711318" target="_blank">
+                                    <i class="icon VOE" title="Hoster VOE"></i>
+                                    <h4>VOE</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711322" data-lang-key="2" data-link-id="2711322" data-link-target="/redirect/2711322" data-external-embed="false" style="display: none;">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711322" target="_blank">
+                                    <i class="icon Doodstream" title="Hoster Doodstream"></i>
+                                    <h4>Doodstream</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2838937" data-lang-key="2" data-link-id="2838937" data-link-target="/redirect/2838937" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2838937" target="_blank">
+                                    <i class="icon Filemoon" title="Hoster Filemoon"></i>
+                                    <h4>Filemoon</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2857797" data-lang-key="2" data-link-id="2857797" data-link-target="/redirect/2857797" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2857797" target="_blank">
+                                    <i class="icon Luluvdo" title="Hoster Luluvdo"></i>
+                                    <h4>Luluvdo</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink3011065" data-lang-key="2" data-link-id="3011065" data-link-target="/redirect/3011065" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/3011065" target="_blank">
+                                    <i class="icon Vidmoly" title="Hoster Vidmoly"></i>
+                                    <h4>Vidmoly</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711320" data-lang-key="3" data-link-id="2711320" data-link-target="/redirect/2711320" data-external-embed="false" style="display: none;">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711320" target="_blank">
+                                    <i class="icon VOE" title="Hoster VOE"></i>
+                                    <h4>VOE</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2711323" data-lang-key="3" data-link-id="2711323" data-link-target="/redirect/2711323" data-external-embed="false" style="display: none;">
+                                                    <div class="generateInlinePlayer">
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2711323" target="_blank">
+                                    <i class="icon Doodstream" title="Hoster Doodstream"></i>
+                                    <h4>Doodstream</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2838940" data-lang-key="3" data-link-id="2838940" data-link-target="/redirect/2838940" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2838940" target="_blank">
+                                    <i class="icon Filemoon" title="Hoster Filemoon"></i>
+                                    <h4>Filemoon</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink2857813" data-lang-key="3" data-link-id="2857813" data-link-target="/redirect/2857813" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/2857813" target="_blank">
+                                    <i class="icon Luluvdo" title="Hoster Luluvdo"></i>
+                                    <h4>Luluvdo</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>                     <li class="col-md-3 col-xs-12 col-sm-6 episodeLink3011079" data-lang-key="3" data-link-id="3011079" data-link-target="/redirect/3011079" data-external-embed="false" style="display: none;">
+                                                    <div>
+                                <a class="watchEpisode" itemprop="url" href="/redirect/3011079" target="_blank">
+                                    <i class="icon Vidmoly" title="Hoster Vidmoly"></i>
+                                    <h4>Vidmoly</h4>
+                                    <div class="hosterSiteVideoButton">Video öffnen</div>
+                                </a>
+                                <span>
+                                                                                                        </span>
+                            </div>
+                                            </li>  </ul>
+
+analyisiere alles und korrigiere den code
